@@ -13,6 +13,34 @@ This is my github CV.
 
 ### <a name="projects">Projects & Code</a>
 
+Sloth was built to make getting out of the house and stretching your legs fun, by tracking your steps using a pedometer to affect your snuggle. 
+While working on Sloth I learned how to effectively use SVG’s, how react-native compiles artefacts, and how to collaborate with a team to build an idea from scratch with efficient planning.
+
+JavaScript
+React-Native 
+Expo
+SVG’s
+
+Inkscape
+Cypress
+Jest
+
+
+Poké is a Facebook clone that we were asked to build by a client. 
+During the project, I learned how to present to a client, what is an appropriate question to ask, and how to assign tasks to members of the team using sprints, and roles following the scum format.
+
+Ruby
+Ruby on rails
+Devise
+jQuery
+
+PostgreSQL
+Bootstrap
+Rspec
+Capybara
+
+
+
 ### <a name="education">Education</a>
 
 
