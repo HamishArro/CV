@@ -1,6 +1,6 @@
 # Hamish Edward Arro
 
-This is my github CV.
+I am responsible, reliable, and hardworking, with excellent technical and practical abilities. I am a Technoid, constantly looking for the latest greatest tech, and understanding what makes them work, which led me to take the Makers Academy coding Bootcamp to pursue a career in the field. 
 ***
 [Skills](#skills) | [Current Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
@@ -20,20 +20,20 @@ This is my github CV.
 ### <a name="education">Education</a>
 
 
-Makers Academy coding Bootcamp								Jan 2021 - Mar 2021
+Makers Academy coding Bootcamp | Jan 2021 - Mar 2021
 - How and why to TDD a program.
 - How to plan effectively.
 - Built a reflective practice.
 - Developed communication skills such as Empathy, Teamwork, and Feedback.
 - Honed a self-led practise that enables me to be language agnostic.
 
-Sackville school					9 GCSE’s A-C						    July 2015
+Sackville school | 9 GCSE’s A-C | July 2015
 
-Crawley college					RQF Level 3 Diploma in Mechanical engineering  		    July 2015
+Crawley college | RQF Level 3 Diploma in Mechanical engineering | July 2015
 
 ### <a name="experience">Experience</a>
 
-ILG (International Logistics Group)		Warehouse Assistant				Nov 2019 - Dec 2020
+ILG (International Logistics Group) | Warehouse Assistant | Nov 2019 - Dec 2020
 
 - Managing client orders from pre-pick to dispatched.
 - Gift wrapping orders in unique ways depending on the contract.
@@ -41,7 +41,7 @@ ILG (International Logistics Group)		Warehouse Assistant				Nov 2019 - Dec 2020
 - Manage personnel to increase productivity.
 - Efficiently managing stock control.
 
-Morning Mist Limited				Sous Chef					Jan 2018 – Mar 2019
+Morning Mist Limited | Sous Chef | Jan 2018 – Mar 2019
 
 - Checked the quantity and quality of the products received in the morning.
 - Monitored sanitation practices to ensure that employees follow standards and regulations.
