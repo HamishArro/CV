@@ -19,15 +19,15 @@ I am responsible, reliable, and hardworking, with excellent technical and practi
 
 ### <a name="education">Education</a>
 
+Codecademy | **Learn Swift Course** | May 2021
+
+
 **Makers Academy coding Bootcamp** | Jan 2021 - Mar 2021
 - How and why to TDD a program.
 - How to plan effectively.
 - Built a reflective practice.
 - Developed communication skills such as Empathy, Teamwork, and Feedback.
 - Honed a self-led practise that enables me to be language agnostic.
-
-
-Codecademy | **Learn Swift Course** | May 2021
 
 
 Codecademy | **Learn the Command Line** | Nov 2020
