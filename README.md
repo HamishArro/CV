@@ -33,7 +33,7 @@ Crawley college | RQF Level 3 Diploma in Mechanical engineering | July 2015
 
 ### <a name="experience">Experience</a>
 
-ILG (International Logistics Group) | Warehouse Assistant | Nov 2019 - Dec 2020
+ILG (International Logistics Group) | <div style="text-align: center;"> Warehouse Assistant </div> | Nov 2019 - Dec 2020
 
 - Managing client orders from pre-pick to dispatched.
 - Gift wrapping orders in unique ways depending on the contract.
