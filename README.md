@@ -26,9 +26,21 @@ I am responsible, reliable, and hardworking, with excellent technical and practi
 - Developed communication skills such as Empathy, Teamwork, and Feedback.
 - Honed a self-led practise that enables me to be language agnostic.
 
+
+Codecademy | **Learn Swift Course** | May 2021
+
+
+Codecademy | **Learn the Command Line** | Nov 2020
+
+
+Codecademy | **Learn Ruby Course** | Nov 2020
+
+
 Sackville school | **9 GCSE’s A-C** | July 2015
 
+
 Crawley college | **RQF Level 3 Diploma in Mechanical engineering** | July 2015
+
 
 ### <a name="experience">Experience</a>
 
